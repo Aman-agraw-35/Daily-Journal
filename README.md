@@ -2,13 +2,7 @@
 
 Try it now : https://lime-strange-pronghorn.cyclic.cloud/
 
-use   / contact
+use   / contact   / about      /posts/:topic    /compose
 
-    / about
-    
-    /posts/:topic
-
-    /compose
-
-    to visit different pages 
+ to visit different pages 
     
