@@ -64,6 +64,6 @@ app.get("/posts/:topic" , function(req ,res){
 
 
 
-app.listen(4000, function() {
+app.listen(process.env.PORT, function() {
   console.log("Server started on port 4000");
 });
